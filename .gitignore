@@ -1,0 +1,14 @@
+/output
+/cmake-build-debug-xcode
+/cmake-build-cmake-default
+/cmake-build-cmake-debug-default
+/cmake-build-cmake-release-default
+/CMakeFiles
+.DS_Store
+*.mp4
+*.mp3
+*.zip
+*.yuv
+*.h264
+*.dylib
+*.a
